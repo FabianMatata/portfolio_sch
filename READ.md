@@ -5,7 +5,7 @@ Portfolio Website
 Website to showcse my skills and previous projects to potential clients and would be clients. It plays a vital role in marketing my skills to the world.
 
 ## Author
-Fabian Kimondiu Matata
+Fabian Matata
 
 ## Technology Used
 HTML, CSS, JS, Bootstrap

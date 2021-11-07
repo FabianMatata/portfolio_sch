@@ -20,5 +20,6 @@ https://www.figma.com/file/lweDVHhHEmacUtudjZlZlc/Untitled?node-id=0%3A1
 To install the above project in your computer you have to first download it, after which you can run it on your local computer.
 
 ## Contact & License Information
+&copy 2021 Fabian Matata
 Above work is open source for use by third parties.
 However the author is not liable to any damage caused as a result of the use of this project.

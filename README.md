@@ -21,5 +21,6 @@ To install the above project in your computer you have to first download it, aft
 
 ## Contact & License Information
 Copyright (c) 2021 Fabian Matata
-Above work is open source for use by third parties.
-However the author is not liable to any damage caused as a result of the use of this project.
+Above work is open source for use by any third parties be it form commercial or personal usage.
+The software is provided on the basis of 'as it is'.
+The author is not liable to any damages, claim or liability caused as a result of the use of this software.

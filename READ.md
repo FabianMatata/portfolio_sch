@@ -16,7 +16,7 @@ https://fabianmatata.github.io/portfolio/
 https://www.figma.com/file/lweDVHhHEmacUtudjZlZlc/Untitled?node-id=0%3A1
 
 ## Setup & Installation Instructions
-To install the above project in your computer you have to first download it.
+To install the above project in your computer you have to first download it, after which you can run it on your computer.
 
 ## Contact & License Information
 Above work is open source for use by third parties.

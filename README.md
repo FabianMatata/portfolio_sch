@@ -2,7 +2,8 @@
 Portfolio Website
 
 ## Project Description
-Website to showcse my skills and previous projects to potential clients and would be clients. It plays a vital role in marketing my skills to the world.
+Website to showcse my skills and previous projects to potential clients and would be clients.
+It plays a vital role in marketing my skills to the world.
 
 ## Author
 Fabian Matata
